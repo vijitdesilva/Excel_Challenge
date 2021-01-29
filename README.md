@@ -1,2 +1,2 @@
 # Excel_Challenge
-Excel_PivotTable_Assignemnet_1
+Excel_PivotTable_Assignment_1
